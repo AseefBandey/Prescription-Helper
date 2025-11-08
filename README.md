@@ -69,24 +69,7 @@ Upload prescription images and let AI extract:
 - **Google Gemini AI** for OCR
 - **LocalStorage** for data
 
-## Deploy
 
-### Vercel (Recommended)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-1. Push to GitHub
-2. Import to Vercel
-3. Add `VITE_GEMINI_API_KEY` env variable
-4. Deploy!
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output goes to `dist/`
 
 ## Project Structure
 
